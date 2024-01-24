@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnnietien
 - 👀 I’m interested in AIoT 
-- 🌱 I’m currently learning TinyML
+- 🌱 I’m currently learning TinyML and Generative AI Applications.
 - 💞️ I’m looking to collaborate on Microservice
 - 📫 How to reach me ...
 
